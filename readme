@@ -1,0 +1,5 @@
+Parser for the developer's site with authorization. Using the Beautyful Soup library.
+Account data - in the auth.py file
+*******************
+Парсер сайта застройщика с авторизацией. C использованием библиотеки Beautyful Soup.
+Данные аккаунта - в файле auth.py
